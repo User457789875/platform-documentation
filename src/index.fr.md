@@ -1,16 +1,16 @@
 ---
 id: home_fr
-title: Accueil de la documentation de Core
-name: Accueil de la documentation de Core
+title: Accueil du jeux
+name: Acceuil du jeux 
 hide:
     - tags
 ---
 
-# Documentation Core
+# Documentation du jeux 
 
 Bienvenue dans la documentation officielle de Core, l'outil de création de jeux axé sur la communauté, avec tout ce dont vous avez besoin pour développer et publier des jeux de haute qualité.
 
-## Caractéristiques de Core
+## Caractéristiques du jeux 
 
 - **Multijoueur intégré**: Partagez et jouez avec vos amis partout dans le monde.
 - **Publication en un clic**: Lancez votre jeu en appuyant sur un seul bouton.
@@ -28,8 +28,8 @@ Bienvenue dans la documentation officielle de Core, l'outil de création de jeux
 
 ## À propos d'Accès Anticipé
 
-Core est en Early Access, ce qui signifie qu'il en est encore aux premiers stades, avec de nombreuses fonctionnalités à venir. En tant que créateur de l'Early Access de Core, vous êtes invité à repousser les limites de la plateforme et à concevoir de nouveaux types de jeux et d'expériences dans Core. Nous apprécions vos commentaires, vos rapports de bugs et votre participation à la communauté des créateurs, car c'est ensemble que nous pousserons Core vers l'excellence.
+Jeux est en Early Access, ce qui signifie qu'il en est encore aux premiers stades, avec de nombreuses fonctionnalités à venir. En tant que créateur de l'Early Access de Core, vous êtes invité à repousser les limites de la plateforme et à concevoir de nouveaux types de jeux et d'expériences dans Core. Nous apprécions vos commentaires, vos rapports de bugs et votre participation à la communauté des créateurs, car c'est ensemble que nous pousserons Core vers l'excellence.
 
 ## À propos de la documentation
 
-La documentation de Core est continuellement rédigée et éditée par Manticore et les membres de la communauté Creator. Pour contribuer, cliquez sur l'icône <a href="#" title="Edit this page" class="md-icon">edit</a> dans le coin supérieur droit de n'importe quelle page de la documentation.
+La documentation du jeux est continuellement rédigée et éditée par Manticore et les membres de la communauté Creator. Pour contribuer, cliquez sur l'icône <a href="#" title="Edit this page" class="md-icon">edit</a> dans le coin supérieur droit de n'importe quelle page de la documentation.
